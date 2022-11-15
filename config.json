@@ -1,0 +1,11 @@
+{
+  "name": "Timestamp Microservice",
+  "repo": "https://github.com/cekstedt/FreeCodeCamp-Timestamp-Microservice",
+  "challenger": "FreeCodeCamp",
+  "challenge page": "https://www.freecodecamp.org/learn/back-end-development-and-apis/back-end-development-and-apis-projects/timestamp-microservice",
+  "hosted": "https://comet-satisfying-judo.glitch.me/",
+  "original": false,
+  "personal": false,
+  "thumbnail": "thumbnail.png",
+  "technologies": ["js", "node", "express"]
+}
