@@ -1,6 +1,6 @@
 # FreeCodeCamp - Backend Challenges - Timestamp Microservice
 
-This is a solution to the [Timestamp Microservice](https://www.freecodecamp.org/learn/back-end-development-and-apis/back-end-development-and-apis-projects/timestamp-microservice) course on [FreeCodeCamp](https://www.freecodecamp.org/).
+This is a solution to the [Timestamp Microservice](https://www.freecodecamp.org/learn/back-end-development-and-apis/back-end-development-and-apis-projects/timestamp-microservice) challenge on [FreeCodeCamp](https://www.freecodecamp.org/).
 
 ## Table of contents
 
